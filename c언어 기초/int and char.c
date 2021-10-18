@@ -1,4 +1,4 @@
-
+/*
 
 #include<stdio.h>
 
@@ -14,3 +14,4 @@ int main(void){
   printf("%d",i); // 66출력 
   return 0;
 }
+*/

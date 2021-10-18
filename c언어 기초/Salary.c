@@ -1,4 +1,4 @@
-
+/*
 #include <stdio.h>
 #define MONTHS 12 
 // 상수에 대한 정의 ex) 원주율, 공식...
@@ -9,3 +9,4 @@ int main(void){
   return 0;
 
 }
+*/

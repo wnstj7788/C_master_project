@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 int main(void){
@@ -8,3 +9,4 @@ int main(void){
    printf("16진수로 출력 : %x \n",x);
   return 0;
 }
+*/
